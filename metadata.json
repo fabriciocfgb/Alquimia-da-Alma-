@@ -1,0 +1,8 @@
+{
+  "name": "Anne conciencia desperta ",
+  "description": "An AI interface harmonized with sacred geometry and radiesthesia principles for enhanced alignment and cognitive growth.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
